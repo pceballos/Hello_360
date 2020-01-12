@@ -2,5 +2,7 @@
 
 # Hello_360
 
-Mi proyecto consiste en crear una biblioteca interactiva tematizada alrededor de los videos musicales más famosos de cada año. Luego de un trabajo de investigación sobre cada uno de los videos el objetivo es brindar la información recolectada acompañada de imágenes del videoclip, gráficos, la canción del videoclip, y otros contenidos multimedia. 
-Al entrar en el apartado de uno de los videos partimos de unos datos base como el artista, la paleta de colores, la localización, cuánto presupuesto tuvo, etc para ir especificando con detalles más curiosos que al usuario le pueda interesar. Para que no sea simplemente un bloque de contenido multimedia con información la idea es ordenarlo de manera en la que sea un recorrido, comenzando por los años 80' con el surgimiento de los primeros videos musicales y a medida que avanzamos en el tiempo ir explicando los cambios en la industria, la música y lo visual.
+Mi proyecto consiste en crear un sitio web en el que se reflejen una serie de contadores a modo de análisis en tiempo real de cifras de Youtube, tales como vistas por minuto, contenido subido por hora, etc. Algunos de ellos,
+programados en base a la información que existe sobre el consumo de la plataforma y otros en tiempo real recogiendo datos de una fuente externa. Además, en la pestaña "Mapa" el usuario podrá acceder a un mapa interactivo
+del mundo en el que se puede apreciar la distribución de usuarios por día. Por último, en la pestaña "top" se aprecian los podios de varias categorías tales como "Video más visto", por ejemplo, junto al contador en tiempo real.
+Ver las cifras crecer de manera tan veloz y exponencial nos ayuda a dimensionar la cantidad de contenido que se consume a cada instante y me resulta algo asombroso e interesante.
